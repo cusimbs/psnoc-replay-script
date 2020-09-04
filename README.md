@@ -1,5 +1,8 @@
 # replay-script
+## Cloning the repository
+`git clone https://github.com/cusimbs/psnoc-replay-script.git replay-script-v2.1`
 
+The repository will be cloned into a directory named ***replay-script-v2.1***
 ## Using Docker
 ### build the docker container
 `./build-docker.sh`
