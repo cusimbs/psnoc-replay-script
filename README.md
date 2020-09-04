@@ -1,5 +1,5 @@
 # replay-script
-## Cloning the repository
+## Cloning The Repository
 `git clone https://github.com/cusimbs/psnoc-replay-script.git replay-script-v2.1`
 
 The repository will be cloned into a directory named ***replay-script-v2.1***
